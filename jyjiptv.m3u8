@@ -9,7 +9,7 @@ http://192.168.5.233:4022/udp/239.45.1.68:5140
 http://192.168.5.233:4022/udp/239.45.0.2:5140
 #EXTINF: -1 tvg-id="cctv-5" tvg-name="CCTV-5(体育)" group-title="央视频道", CCTV-体育「高清」
 http://192.168.5.233:4022/udp/239.45.1.69:5140
-#EXTINF: -1 tvg-id="cctv-5" tvg-name="CCTV-5+(体育)" group-title="央视频道", CCTV-体育+「高清」
+#EXTINF: -1 tvg-id="cctv-5+" tvg-name="CCTV-5+(体育)" group-title="央视频道", CCTV-体育+「高清」
 http://192.168.5.233:4022/udp/239.45.0.34:5140
 #EXTINF: -1 tvg-id="cctv-6" tvg-name="CCTV-6(电影)" group-title="央视频道", CCTV-电影「高清」
 http://192.168.5.233:4022/udp/239.45.1.70:5140
