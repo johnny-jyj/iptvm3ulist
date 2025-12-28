@@ -36,7 +36,7 @@ http://192.168.5.233:4022/udp/233.18.204.65:5140
 #EXTINF:-1 tvg-id="350" tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="地方",家庭理财
 http://192.168.5.233:4022/udp/233.18.204.157:5140
 #EXTINF:-1 tvg-id="197" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="地方",财富天下HD
-http://192.168.5.233:4022/udp/233.28.204.231:5140
+http://192.168.5.233:4022/udp/233.18.204.231:5140
 #EXTINF:-1 tvg-id="99" tvg-name="法治天地" tvg-logo="https://epg.deny.vip/df/法治天地.png" group-title="地方",法治天地HD
 http://192.168.5.233:4022/udp/233.18.204.49:5140
 #EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://epg.deny.vip/df/上海教育.png" group-title="地方",上海教育HD
@@ -223,17 +223,17 @@ http://192.168.5.233:4022/udp/233.18.204.84:5140
 http://192.168.5.233:4022/udp/233.18.204.229:5140
 #EXTINF:-1 tvg-id="157" tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视HD
 http://192.168.5.233:4022/udp/233.18.204.100:5140
-#EXTINF:-1 tvg-id="120" tvg-name="金色学堂" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="地方",金色学堂HD
+#EXTINF:-1 tvg-id="120" tvg-name="金色学堂" tvg-logo="https://epg.deny.vip/df/金色学堂.png" group-title="少儿频道",金色学堂HD
 http://192.168.5.233:4022/udp/233.18.204.66:5140
-#EXTINF: -1 tvg-name="BesTV4K动画" group-title="卡通", BesTV4K动画
+#EXTINF: -1 tvg-name="BesTV4K动画" group-title="少儿频道", BesTV4K动画
 http://192.168.5.233:4022/udp/233.18.204.171:5140
-#EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="地方",动漫秀场HD
+#EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://epg.deny.vip/df/动漫秀场.png" group-title="少儿频道",动漫秀场HD
 http://192.168.5.233:4022/udp/233.18.204.46:5140
-#EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="地方",哈哈炫动HD
+#EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="少儿频道",哈哈炫动HD
 http://192.168.5.233:4022/udp/233.18.204.54:5140
-#EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="卡通",嘉佳卡通
+#EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
 http://192.168.5.233:4022/udp/233.18.204.151:5140
-#EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="卡通",金鹰卡通HD
+#EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="少儿频道",金鹰卡通HD
 http://192.168.5.233:4022/udp/233.18.204.113:5140
-#EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="卡通",卡酷少儿HD
+#EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://epg.deny.vip/df/卡酷少儿.png" group-title="少儿频道",卡酷少儿HD
 http://192.168.5.233:4022/udp/233.18.204.109:5140
