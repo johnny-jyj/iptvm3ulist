@@ -139,9 +139,9 @@ Source IP/Interface 为需要转发的 IPTV 接口，请设置为 [3.1 VLAN85 DH
 
 在上述步骤后，我们已经将 IPTV 信号转发到了公网或是内网中，但是我们还需要知道 IPTV 中具体的组播 IP 源才能抓到具体视频信号。
 
-在这里感谢恩山 [@deny12138](https://www.right.com.cn/forum/space-uid-544318.html) 大佬提供的上海 IPTV M3U 和 EPG 抓取程序。
+在这里感谢恩山 [@deny12138](https://www.right.com.cn/forum/space-uid-544318.html) 大佬提供的上海电信 IPTV M3U 和 EPG 抓取程序。
 
-通过 GitHub 仓库 [denymz/sh-tel-iptv-spider](https://github.com/denymz/sh-tel-iptv-spider) 的代码，你可以直接从上海 IPTV 网络中爬取到所有电视节目源和 EPG 信息。
+通过 GitHub 仓库 [denymz/sh-tel-iptv-spider](https://github.com/denymz/sh-tel-iptv-spider) 的代码，你可以直接从上海电信 IPTV 网络中爬取到所有电视节目源和 EPG 信息。
 
 如果你不想自己抓取，你也可以直接使用 deny 大佬每天更新的的自动化抓取源。
 * 源：   https://epg.deny.vip/sh/tel-xteve.m3u
