@@ -72,7 +72,7 @@
 IGMP是用于多IPv4组播成员管理的协议,在 IPTV 中其主要实现多播鉴权和 VLAN 转发。
 
 本文只指针 IPTV 直播业务，基于 IPTV 业务架构, 我们只需要启用 IGMPSnooping 功能，以实现 VLAN 51 鉴权即可。
-如果有 IPTV 直播及回放需求的请进一步开启 IGMPProxy。
+如果有 IPTV 点播及回放需求的请进一步开启 IGMPProxy。
 
 #### 2.2.1 电信公版界面
 电信界面的 IGMP 绑定位置 在 应用-IGMP设置-组播设置中，示意图如下：
