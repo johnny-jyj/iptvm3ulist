@@ -11,9 +11,9 @@ http://192.168.5.233:4022/udp/233.18.204.45:5140
 http://192.168.5.233:4022/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-id="103" tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="地方",都市频道HD
 http://192.168.5.233:4022/udp/233.18.204.53:5140
-#EXTINF: -1 tvg-name="欢笑剧场4K_1" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K
+#EXTINF: -1 tvg-name="欢笑剧场4K_1" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K_1
 http://192.168.5.233:4022/udp/233.18.204.115:5140
-#EXTINF: -1 tvg-name="欢笑剧场4K_2" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K
+#EXTINF: -1 tvg-name="欢笑剧场4K_2" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K_2
 http://192.168.5.233:4022/udp/233.18.204.205:5140
 #EXTINF: -1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场
 http://192.168.5.233:4022/udp/233.18.204.50:5140
@@ -91,15 +91,15 @@ http://192.168.5.233:4022/udp/233.18.204.80:5140
 http://192.168.5.233:4022/udp/233.18.204.81:5140
 #EXTINF: -1 tvg-id="cctv-16" tvg-name="CCTV16" group-title="央视", CCTV16
 http://192.168.5.233:4022/udp/233.18.204.82:5140
-#EXTINF: -1 tvg-id="cctv-16" tvg-name="CCTV16.4K-1" group-title="央视", CCTV16.4K
+#EXTINF: -1 tvg-id="cctv-16" tvg-name="CCTV16.4K_1" group-title="央视", CCTV16.4K_1
 http://192.168.5.233:4022/udp/233.18.204.114:5140
-#EXTINF: -1 tvg-id="cctv-16" tvg-name="CCTV16.4K-2" group-title="央视", CCTV16.4K
+#EXTINF: -1 tvg-id="cctv-16" tvg-name="CCTV16.4K_2" group-title="央视", CCTV16.4K_2
 http://192.168.5.233:4022/udp/233.18.204.215:5140
 #EXTINF:-1 tvg-id="140" tvg-name="CCTV-17" tvg-logo="https://epg.deny.vip/cctv/CCTV-17.png" group-title="央视",CCTV-17HD
 http://192.168.5.233:4022/udp/233.18.204.83:5140
-#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K_1" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K_1
 http://192.168.5.233:4022/udp/233.18.204.188:5140
-#EXTINF: -1 tvg-name="CCTV-4K-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视", CCTV4K
+#EXTINF: -1 tvg-name="CCTV-4K_2" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视", CCTV-4K_2
 http://192.168.5.233:4022/udp/233.18.204.204:5140
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
 http://192.168.5.233:4022/udp/233.18.204.174:5140
