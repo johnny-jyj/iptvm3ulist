@@ -3,7 +3,7 @@
 http://192.168.5.233:4022/udp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.5.233:4022/udp/233.18.204.51:5140
-#EXTINF: -1 tvg-name="东方卫视4K" group-title="地方", 东方卫视4K
+#EXTINF: -1 tvg-name="东方卫视4K" tvg-logo="https://epg.deny.vip/ws/dongfang.png" group-title="地方", 东方卫视4K
 http://192.168.5.233:4022/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="94" tvg-name="生活时尚" tvg-logo="https://epg.deny.vip/df/生活时尚.png" group-title="地方",生活时尚HD
 http://192.168.5.233:4022/udp/233.18.204.45:5140
@@ -11,11 +11,11 @@ http://192.168.5.233:4022/udp/233.18.204.45:5140
 http://192.168.5.233:4022/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-id="103" tvg-name="都市频道" tvg-logo="https://epg.deny.vip/df/都市频道.png" group-title="地方",都市频道HD
 http://192.168.5.233:4022/udp/233.18.204.53:5140
-#EXTINF: -1 tvg-name="欢笑剧场4K" group-title="地方", 欢笑剧场4K
+#EXTINF: -1 tvg-name="欢笑剧场4K_1" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K
 http://192.168.5.233:4022/udp/233.18.204.115:5140
-#EXTINF: -1 tvg-name="欢笑剧场4K" group-title="地方", 欢笑剧场4K
+#EXTINF: -1 tvg-name="欢笑剧场4K_2" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场4K
 http://192.168.5.233:4022/udp/233.18.204.205:5140
-#EXTINF: -1 tvg-name="欢笑剧场" group-title="地方", 欢笑剧场
+#EXTINF: -1 tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方", 欢笑剧场
 http://192.168.5.233:4022/udp/233.18.204.50:5140
 #EXTINF:-1 tvg-id="105" tvg-name="东方影视" tvg-logo="https://epg.deny.vip/df/东方影视.png" group-title="地方",东方影视HD
 http://192.168.5.233:4022/udp/233.18.204.55:5140
@@ -55,7 +55,7 @@ http://192.168.5.233:4022/udp/233.18.204.116:5140
 http://192.168.5.233:4022/udp/233.18.204.202:5140
 #EXTINF: -1 tvg-name="未知1" group-title="地方", 未知1
 http://192.168.5.233:4022/udp/233.18.204.201:5140
-#EXTINF: -1 tvg-id="cctv-1" tvg-name="CCTV1" group-title="央视", CCTV1
+#EXTINF: -1 tvg-id="cctv-1" tvg-name="CCTV1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视", CCTV1
 http://192.168.5.233:4022/udp/233.18.204.168:5140
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
 http://192.168.5.233:4022/udp/233.18.204.52:5140
@@ -143,7 +143,7 @@ http://192.168.5.233:4022/udp/233.18.204.28:5140
 http://192.168.5.233:4022/udp/233.18.204.93:5140
 #EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视",北京卫视HD
 http://192.168.5.233:4022/udp/233.18.204.87:5140
-#EXTINF: -1 tvg-name="北京卫视4K" group-title="卫视", 北京卫视4K
+#EXTINF: -1 tvg-name="北京卫视4K" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视", 北京卫视4K
 http://192.168.5.233:4022/udp/233.18.204.209:5140
 #EXTINF:-1 tvg-id="175" tvg-name="兵团卫视" tvg-logo="https://epg.deny.vip/ws/bingtuan.png" group-title="卫视",兵团卫视HD
 http://192.168.5.233:4022/udp/233.18.204.221:5140
@@ -171,13 +171,13 @@ http://192.168.5.233:4022/udp/233.18.204.90:5140
 http://192.168.5.233:4022/udp/233.18.204.92:5140
 #EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视",湖南卫视HD
 http://192.168.5.233:4022/udp/233.18.204.86:5140
-#EXTINF: -1 tvg-name="湖南卫视4K" group-title="卫视", 湖南卫视4K
+#EXTINF: -1 tvg-name="湖南卫视4K" tvg-logo="https://epg.deny.vip/ws/hunan.png" group-title="卫视", 湖南卫视4K
 http://192.168.5.233:4022/udp/233.18.204.227:5140
 #EXTINF:-1 tvg-id="166" tvg-name="吉林卫视" tvg-logo="https://epg.deny.vip/ws/jilin.png" group-title="卫视",吉林卫视HD
 http://192.168.5.233:4022/udp/233.18.204.108:5140
 #EXTINF:-1 tvg-id="142" tvg-name="江苏卫视" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 http://192.168.5.233:4022/udp/233.18.204.85:5140
-#EXTINF: -1 tvg-name="江苏卫视4K" group-title="卫视", 江苏卫视4K
+#EXTINF: -1 tvg-name="江苏卫视4K" tvg-logo="https://epg.deny.vip/ws/jiangsu.png" group-title="卫视", 江苏卫视4K
 http://192.168.5.233:4022/udp/233.18.204.226:5140
 #EXTINF:-1 tvg-id="152" tvg-name="江西卫视" tvg-logo="https://epg.deny.vip/ws/jiangxi.png" group-title="卫视",江西卫视HD
 http://192.168.5.233:4022/udp/233.18.204.95:5140
@@ -193,7 +193,7 @@ http://192.168.5.233:4022/udp/233.18.204.112:5140
 http://192.168.5.233:4022/udp/233.18.204.172:5140
 #EXTINF:-1 tvg-id="148" tvg-name="山东卫视" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视",山东卫视HD
 http://192.168.5.233:4022/udp/233.18.204.91:5140
-#EXTINF: -1 tvg-name="山东卫视4K" group-title="卫视", 山东卫视4K
+#EXTINF: -1 tvg-name="山东卫视4K" tvg-logo="https://epg.deny.vip/ws/shandong.png" group-title="卫视", 山东卫视4K
 http://192.168.5.233:4022/udp/233.18.204.228:5140
 #EXTINF:-1 tvg-id="172" tvg-name="山西卫视" tvg-logo="https://epg.deny.vip/ws/shanxi_.png" group-title="卫视",山西卫视HD
 http://192.168.5.233:4022/udp/233.18.204.211:5140
@@ -201,11 +201,11 @@ http://192.168.5.233:4022/udp/233.18.204.211:5140
 http://192.168.5.233:4022/udp/233.18.204.223:5140
 #EXTINF:-1 tvg-id="146" tvg-name="深圳卫视" tvg-logo="https://epg.deny.vip/ws/shenzhen.png" group-title="卫视",深圳卫视HD
 http://192.168.5.233:4022/udp/233.18.204.89:5140
-#EXTINF: -1 tvg-name="深圳卫视4K" group-title="卫视", 深圳卫视4K
+#EXTINF: -1 tvg-name="深圳卫视4K" tvg-logo="https://epg.deny.vip/ws/shenzhen.png" group-title="卫视", 深圳卫视4K
 http://192.168.5.233:4022/udp/233.18.204.219:5140
 #EXTINF:-1 tvg-id="156" tvg-name="四川卫视" tvg-logo="https://epg.deny.vip/ws/sichuan.png" group-title="卫视",四川卫视HD
 http://192.168.5.233:4022/udp/233.18.204.99:5140
-#EXTINF: -1 tvg-name="四川卫视4K" group-title="卫视", 四川卫视4K
+#EXTINF: -1 tvg-name="四川卫视4K" tvg-logo="https://epg.deny.vip/ws/sichuan.png" group-title="卫视", 四川卫视4K
 http://192.168.5.233:4022/udp/233.18.204.225:5140
 #EXTINF:-1 tvg-id="154" tvg-name="天津卫视" tvg-logo="https://epg.deny.vip/ws/tianjin.png" group-title="卫视",天津卫视HD
 http://192.168.5.233:4022/udp/233.18.204.97:5140
@@ -219,7 +219,7 @@ http://192.168.5.233:4022/udp/233.18.204.155:5140
 http://192.168.5.233:4022/udp/233.18.204.106:5140
 #EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 http://192.168.5.233:4022/udp/233.18.204.84:5140
-#EXTINF: -1 tvg-name="浙江卫视4K" group-title="卫视", 浙江卫视4K
+#EXTINF: -1 tvg-name="浙江卫视4K" tvg-logo="https://epg.deny.vip/ws/zhejiang.png" group-title="卫视", 浙江卫视4K
 http://192.168.5.233:4022/udp/233.18.204.229:5140
 #EXTINF:-1 tvg-id="157" tvg-name="重庆卫视" tvg-logo="https://epg.deny.vip/ws/chongqing.png" group-title="卫视",重庆卫视HD
 http://192.168.5.233:4022/udp/233.18.204.100:5140
