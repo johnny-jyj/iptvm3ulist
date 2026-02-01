@@ -103,7 +103,7 @@ IGMP是用于多IPv4组播成员管理的协议,在 IPTV 中其主要实现多�
 转发网关首先需要在 VLAN85 上获得 IP, 在 [2.1 VLAN 85 桥接](#21-vlan-85-桥接) 的光猫设置中，我们已经设置了 VLAN85 的桥接，我们直接 DHCP 即可获得 IP
 ![img.png](pic/vlan85_dhcp.png)
 
-获得 30.140 即成功接入 IPTV 网关 
+获得 30.140 的 IP 即成功接入 IPTV 网关 
 ![openwrt_net_struct.PNG](pic/openwrt_net_struct.PNG)
 
 
